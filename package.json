@@ -1,0 +1,16 @@
+{
+  "name": "bankist-site",
+  "version": "1.0.0",
+  "description": "Recipe Application",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel serve index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Mihai Constantinescu",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "parcel": "^2.0.0-beta.2"
+  }
+}
