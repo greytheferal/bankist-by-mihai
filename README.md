@@ -8,4 +8,4 @@ To test this project use username: js and the pin 1111
  
 ## License
 
-Make sure you know that **This project is based on [Jonas Schmedtmann](https://github.com/jonasschmedtmann)'s [Mapty](https://mapty.netlify.app/) project.**
+Make sure you know that **This project is based on [Jonas Schmedtmann](https://github.com/jonasschmedtmann)'s Bankist project.**
